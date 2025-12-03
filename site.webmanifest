@@ -1,6 +1,9 @@
 {
-  "name": "Allocx Blog",
-  "short_name": "Allocx",
+  "name": "allocx",
+  "short_name": "allocx",
+  "description": "Notes on programming, systems, and the things in between.",
+  "start_url": "/",
+  "id": "/",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
